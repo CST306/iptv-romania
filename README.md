@@ -1,2 +1,0 @@
-# iptv-romania
-iptv channels
